@@ -5,7 +5,7 @@ A simple API that returns email, datetime, and GitHub repo URL.
 ## Setup
 1. Clone the repo:
    ```bash
-   git clone https://github.com/4lphav01d/hng-api.git
+   git clone https://github.com/4lphav01d/hng0api.git
    ```
 2. Install Dependencies 
     ```
