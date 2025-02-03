@@ -29,3 +29,6 @@ A simple API that returns email, datetime, and GitHub repo URL.
   "github_url": "https://github.com/4lphav01d/hng0api.git"
     }
  ```
+
+ ## LINKS 
+ [Hire Python Developer](https://hng.tech/hire/python-developers)
